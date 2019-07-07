@@ -32,6 +32,7 @@ This repo contains data where one data record is an article. There are 23 differ
 ## Creating Predictions
 
 The predictions can be found in the 'predictions' subdirectory for the sample size of 2000 articles for each category.
+The data can be found [here](https://drive.google.com/file/d/1bocNG-HxpQYWFjutZffh8mNt6hmtJ1nt/view?usp=sharing)
 
 If a custom experiment wants to be made please do the below:
 
